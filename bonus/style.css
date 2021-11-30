@@ -66,3 +66,12 @@ h1{
     font-family: 'Rubik Mono One', sans-serif;
     color: green;
 }
+
+
+#change ul li {
+    font-size: 30px;
+    padding: 0 20px;
+    display: inline;
+    float: right;
+    line-height: 70px;
+}
